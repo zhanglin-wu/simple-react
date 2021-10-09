@@ -12,7 +12,7 @@ const React = {
         return { tag: "div", props: { children: ["Loading..."] } };
       }
     }
-    // } else if (children[0] instanceof Promise) {
+    // else if (children[0] instanceof Promise) {
     //   console.log(`children[0]: ${children[0]}`);
     // }
 
@@ -50,7 +50,7 @@ function useState(initialState) {
   return [closureStates[myFixedIndex], setState];
 }
 
-let closureDogPhotoURL = "";
+// let closureDogPhotoURL = "";
 let closureAsyncResources = new Map();
 function handleAsyncResources(key, promise) {
   if (closureAsyncResources.has(key)) {
