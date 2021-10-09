@@ -30,5 +30,6 @@ npm tsc --init
 ```
 
 ## References
-- [Deconstructing React || Tejas Kumar](https://www.youtube.com/watch?v=f2mMOiCSj5c&ab_channel=CodingTech)
-
+- [Talk - Deconstructing react by Tejas Kumar](https://www.youtube.com/watch?v=f2mMOiCSj5c&ab_channel=CodingTech)
+- [Parcel - Building a web app with Parcel](https://parceljs.org/getting-started/webapp/)
+- [React - Introducing concurrent mode](https://reactjs.org/docs/concurrent-mode-intro.html)
