@@ -1,5 +1,7 @@
 # simple-react
-A simple example for learning the source code of react.
+A simple example for understanding two internal design concepts of React.js:
+- React Components
+- React Hooks
 
 ## Build
 ```
@@ -17,6 +19,8 @@ or
 ```
 npx parcel index.html
 ```
+
+And then open the link (e.g. http://localhost:1234) in a web browser.
 
 ## Notes
 ### CORS error
