@@ -1,7 +1,9 @@
-# simple-react
-A simple example for understanding two internal design concepts of React.js:
-- React Components
-- React Hooks
+# Simple Demo to Understand Some React Concepts
+A simple demo project to understand two internal design concepts of React.js:
+- What is Virtual DOM?
+- What is React Hooks?
+
+This just an entry-level learning project. There is no advanced knowledge here.
 
 ## Build
 ```
