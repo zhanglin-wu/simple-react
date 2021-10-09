@@ -3,7 +3,7 @@ A simple demo project to understand two internal design concepts of React.js:
 - What is Virtual DOM?
 - What is React Hooks?
 
-This just an entry-level learning project. There is no advanced knowledge here.
+This is just an entry-level learning project. There is no advanced knowledge here.
 
 ## Build
 ```
