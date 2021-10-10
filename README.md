@@ -25,10 +25,10 @@ npx parcel index.html
 And then open the link (e.g. http://localhost:1234) in a web browser.
 
 ## Notes
-### CORS error
-Open the web page in Safari if Chrome doesn't show the image.
+#### CORS error
+Open the web page in Safari if Chrome doesn't show the image (because of the CORS error).
 
-### How to create an empty typescript project?
+#### How to create an empty Typescript project?
 ```
 npm init
 npm install -D typescript parcel
@@ -36,6 +36,6 @@ npm tsc --init
 ```
 
 ## References
-- [Talk - Deconstructing react by Tejas Kumar](https://www.youtube.com/watch?v=f2mMOiCSj5c&ab_channel=CodingTech)
+- [Talk - Deconstructing React by Tejas Kumar](https://www.youtube.com/watch?v=f2mMOiCSj5c&ab_channel=CodingTech)
 - [Parcel - Building a web app with Parcel](https://parceljs.org/getting-started/webapp/)
 - [React - Introducing concurrent mode](https://reactjs.org/docs/concurrent-mode-intro.html)
