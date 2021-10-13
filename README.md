@@ -32,7 +32,7 @@ Open the web page in Safari if Chrome doesn't show the image (because of the COR
 ```
 npm init
 npm install -D typescript parcel
-npm tsc --init
+npx tsc --init
 ```
 
 ## References
